@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926788323063",
+    "project_id": "salesbate",
+    "storage_bucket": "salesbate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926788323063:android:381a323c1ff54a54f1b5f2",
+        "android_client_info": {
+          "package_name": "com.example.salesbet_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqRASGpyThfGnEb--xUEqXUpNayKb8dcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
